@@ -1,5 +1,5 @@
 - 👋 Hi, I am Francesco Contini, I come from Cagliari (Sardinia).
-- 🎓 Law school graduate.
+- ⚖️ Legal Trainee in Trento.
 - 🤓 I am currently improving my LaTeX skills. It's my intention to learn html language.
 - 🌱 I would like to work on a Writing Guide project destined to Italian writers.
 - 📫 Email me at francescocontini98@gmail.com. I can speak English, French and Italian.
